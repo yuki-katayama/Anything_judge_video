@@ -58,3 +58,5 @@ Run fishvideo_extract_diff.py
 
 The above process allows you to run the sealer.
 I'd like you to try it with a completely different kind of video.
+
+![pic-1](https://i.gyazo.com/974dafe7ae4773259524df7a7ec4ce7e.png)
